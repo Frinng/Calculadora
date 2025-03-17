@@ -107,7 +107,7 @@ namespace ConsoleApp6
            
             //verificaçao de exit ou sair
             
-            else if (escolha == "Exit" || escolha == "Sair") // essas barras || sao o or do python
+            else if (escolha == "sair" || escolha == "Sair" || escolha == "SAIR") // essas barras || sao o or do python
             {
                 Console.WriteLine("Saindo do programa........");
                 Console.WriteLine("Aguarde um instante.....");
