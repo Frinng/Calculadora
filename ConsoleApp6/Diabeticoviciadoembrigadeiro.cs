@@ -21,7 +21,7 @@ namespace ConsoleApp6
             
            //verificaçao de enter e entrar
 
-            if (escolha == "Enter" || escolha == "Entrar") // esses 8 comerciais && sao o and do python
+            if (escolha == "entrar" || escolha == "Entrar" || escolha == "ENTRAR") // esses 8 comerciais && sao o and do python
             {
                 Console.WriteLine("Escolha a opção desejada: ");
                 Console.WriteLine("1- Somar");
